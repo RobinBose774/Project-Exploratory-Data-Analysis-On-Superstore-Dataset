@@ -54,7 +54,8 @@ Heatmap
 Pairplot
 
 ### Overall Conclusion
-Main reason which leads to loss is Discount.Some areas leads lo loss due to more discounts and some areas leads to less sales due to less discounts. It needs to be improved.
+Main reason which leads to loss is Discount.
+Some areas leads lo loss due to more discounts and some areas leads to less sales due to less discounts. It needs to be improved.
 It is better to give more discounts during festival seasons. So that more sales are made.
 Home office segment needs better improvement.
 Some cities have very less sales. It may be due to lack of awareness. So advertising in those cities will leads to sales.
