@@ -39,3 +39,22 @@ Investigate factors influencing customer churn and identify potential strategies
 Summarize the key findings and insights from the analysis.
 Provide actionable recommendations to improve sales, profitability, and customer satisfaction.
 Present the results in a clear and concise manner using visualizations and data-driven insights.
+
+### EDA:
+The EDA is done by using 3 analysis Univariate, Bivariate and Multivariate analysis. For the datavisualization following charts are used:
+
+Pie chart
+
+Barplot
+
+Countplot
+
+Heatmap
+
+Pairplot
+
+### Overall Conclusion
+Main reason which leads to loss is Discount.Some areas leads lo loss due to more discounts and some areas leads to less sales due to less discounts. It needs to be improved.
+It is better to give more discounts during festival seasons. So that more sales are made.
+Home office segment needs better improvement.
+Some cities have very less sales. It may be due to lack of awareness. So advertising in those cities will leads to sales.
